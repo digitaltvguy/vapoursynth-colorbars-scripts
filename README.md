@@ -4,7 +4,7 @@
 
 # How to:
   * Requires installation of vapoursynth first
-  * On OSX: brew install vapoursynth
+  * On OSX: "brew install vapoursynth"
   * Use any one of these scripts using vspipe <script.vpy> <path to outputfile>.yuv
   * vspipe can also be piped to ffmpeg
 
